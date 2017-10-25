@@ -6,5 +6,6 @@ Mount the cart on top so this is like cover the ball and have a trailer on the b
 and mount a camera on the top so it can do image recognition. Find some items that we need from the floor
 and stream to our laptop/computer.
 
+
 Thanks
 Group 2
