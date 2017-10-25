@@ -1,0 +1,8 @@
+Requirement
+
+- NodeJS
+
+Installation Guide
+
+First we need to install nodejs by 
+$ sudo apt-get install nodejs
