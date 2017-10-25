@@ -1,6 +1,10 @@
 # Sphero-2.0
-Hi, Hoomannnnn
-Wee aree SPHEROO teamm
-Group Twooooooooo
+Hi, all
+Our group robot is Sphero 2.0
+We're trying to make this robot can to take image recognition by
+Mount the cart on top so this is like cover the ball and have a trailer on the back that hold Pi3 is place
+and mount a camera on the top so it can do image recognition. Find some items that we need from the floor
+and stream to our laptop/computer.
 
-We will made this thing can do more than toy.
+Thanks
+Group 2
