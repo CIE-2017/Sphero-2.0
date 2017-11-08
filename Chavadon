@@ -1,0 +1,6 @@
+My part is doing mounting part and moving the sphero by raspberry pi
+At the first time, I cannot connect the raspberry pi with bluetooth in Raspbian,and The mounting part the wood sheet cannot get along well with the sphero 
+However,I download the Vmware to connect the Sphero with Ubuntu instead of Rapsbian, so fortunately I can connect the Sphero with bluetooth 
+but the nodejs of the Sphero (NPM) cannot conect with it (https://www.npmjs.com/package/sphero), so I asked TA for help, and he find the API 
+of the Sphero in Python called KUlKA (https://github.com/zdanowiczkonrad/PythonSphero), and I can simply connect it, and now I can move it 
+by using this API
